@@ -6,9 +6,9 @@ Replace ElasticSearch with OpenSearch (Has free sigma rules functionality)
 
 VM contain pre-installed SOF-ELK with opensearch(not elasticsearch) and graylog open
 
-VM can be found on [](OSSVM_DOWNLOAD.md) ( better have 6GB ram and free 40GB disk )
+VM can be found on [OSSVM_DOWNLOAD](OSSVM_DOWNLOAD.md) ( better have 6GB ram and free 40GB disk )
 
-How to build by yourself [](OSSVM_BUILD.md)
+How to build by yourself [OSSVM_BUILD](OSSVM_BUILD.md)
 
 Conference talk material can be found here : 
 
@@ -21,8 +21,6 @@ https://github.com/philhagen/sof-elk/issues/301
 [](SOFELK-README.md)
 
 # SOF-ELK® Configuration Files
-
-![SOF-ELK Logo](https://raw.githubusercontent.com/philhagen/sof-elk/main/lib/sof-elk_logo_sm.png)
 
 This repository contains the configuration and support files for the SOF-ELK® VM Appliance.
 
